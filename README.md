@@ -14,7 +14,6 @@
 - ⚡ Fun fact **I think am funny**
 
 <h3 align="left">Connect with me:</h3>
-(img align="right" alt="Coding" width="400" src="https://lottiefiles.com/animations/web-development-wPWwuRFmPs")
 <p align="left">
 <a href="https://twitter.com/noureddinebzr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="noureddinebzr" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/bouzire noured-dine" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bouzire noured-dine" height="30" width="40" /></a>
