@@ -1,18 +1,11 @@
-<h1 align="center">Hi 👋, I'm Noureddine BOUZIRE</h1>
+<h1 align="center">Hi, I'm Noureddine BOUZIRE</h1>
 <h3 align="center">A passionate web developer from Morocco</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=noureddinebzr&label=Profile%20views&color=0e75b6&style=flat" alt="noureddinebzr" /> </p>
 
 <p align="left"> <a href="https://twitter.com/noureddinebzr" target="blank"><img src="https://img.shields.io/twitter/follow/noureddinebzr?logo=twitter&style=for-the-badge" alt="noureddinebzr" /></a> </p>
-
-- 🔭 I’m currently working on **JAVA CONSOLE project**
-
-- 🌱 I’m currently learning **ANGULAR, JAVA SPRING**
-
 - 📫 How to reach me **bouzire.noureddine1@gmail.com**
-
-- ⚡ Fun fact **I think am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
